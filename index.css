@@ -1,10 +1,9 @@
 body{
-    position: relative;
     color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .heading1{
-    position: absolute;top: 30px;right: 530px;
+    position: absolute;top: 30px;right: 230px;
     font-weight: bold;
     font-size: 65px;
     color: rgb(241, 22, 95);
@@ -63,7 +62,7 @@ label{
 #pic{
     position:absolute;
     top: 80px;
-    right: 870px;
+    right: 550px;
     border-radius: 100%; 
     border-color: white; 
     display: inline; 
