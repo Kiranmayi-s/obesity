@@ -3,7 +3,7 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .heading1{
-    position: absolute;top: 30px;right: 230px;
+    position: absolute;top: 30px;right: 80px;
     font-weight: bold;
     font-size: 65px;
     color: rgb(241, 22, 95);
@@ -11,7 +11,7 @@ body{
 .heading2{
     font-size: 20px; 
     position: absolute;
-    top: 138px;right: 565px; 
+    top: 138px;right: 115px; 
     font-weight: bolder; 
     color: white;
 }
@@ -62,7 +62,7 @@ label{
 #pic{
     position:absolute;
     top: 80px;
-    right: 550px;
+    right: 420px;
     border-radius: 100%; 
     border-color: white; 
     display: inline; 
@@ -74,7 +74,7 @@ label{
     padding-left: 170px; padding-right: 170px;
 }
 #top2{
-    background-color:rgb(101, 116, 116); padding-bottom: 1870px;
+    background-color:rgb(101, 116, 116); padding-bottom: 1870px; position: relative;
 }
 #first1{
     background-color:orange; 
