@@ -74,13 +74,15 @@ label{
     padding-left: 170px; padding-right: 170px;
 }
 #top2{
-    background-color:rgb(101, 116, 116); padding-bottom: 1870px; position: relative;
+    background-color:rgb(101, 116, 116); padding-bottom: 1930px; position: relative;
 }
 #first1{
+    
     background-color:orange; 
-    position:absolute;left:520px;top: 200px;
-    text-align-last: center; padding-right: 130px; 
-    padding-bottom: 20px; padding-left: 20px;
+    position:absolute;left:70px;top: 210px;
+    text-align-last: center; padding-right: 30px; 
+    padding-top: 10px; padding-bottom: 20px;
+    padding-left: 20px; padding-right: 38px;
 }
 #firstimage{
     padding-left:10px; padding-top:10px;
@@ -88,19 +90,21 @@ label{
     width:50px;
 }
 #first2{
-    background-color:rgb(52, 175, 212); 
-    position:absolute;right:520px;top: 200px; 
-    text-align-last: center; padding-left: 20px;  
-    padding-right: 25px; padding-bottom: 30px;
+    background-color:rgb(32, 185, 212); 
+    position:absolute;left:315px;top: 210px;
+    text-align-last: center; padding-right: 30px; 
+    padding-top: 10px; padding-bottom: 29px;
+    padding-left: 20px; padding-right: 38px;
 }
 #secondimage{
     height:30px;
     width:30px;
 }
 #second1{
-    position:absolute;left:520px;top: 490px; 
+    position:absolute;left:70px;top: 510px; 
     padding-left: 30px; 
     padding-bottom: 40px;
+    padding-right: 15px;
 }
 #secondimage1{
     height:30px;
@@ -121,17 +125,17 @@ label{
 }
 #second2{
     position: absolute;
-    top:545px;right:540px
+    top:565px;right:105px
 }
 #third1{
-    position: absolute;top: 725px; right:510px;
+    position: absolute;top: 735px; right:70px;
 }
 #third2{
     padding-bottom: 10px;
 }
 #fourth1{
     background-color:rgb(240, 77, 104); 
-    position:absolute;left:520px;top: 990px;text-align-last: center; 
+    position:absolute;left:70px;top: 1010px;text-align-last: center; 
     padding-right: 30px; 
     padding-top: 10px; 
     padding-bottom: 20px; 
@@ -140,24 +144,24 @@ label{
 #fourth2{
     background-color:orange; 
     text-align-last: center;
-    position:absolute;left:750px;top: 990px; 
+    position:absolute;left:310px;top: 1010px; 
     padding-left: 20px;  
     padding-right: 25px; 
     padding-bottom: 35px;
 }
 #fifth1{
-    position: absolute;top: 1240px; right:525px;
+    position: absolute;top: 1260px; left:60px;
 }
 #fifth2{
     padding-left: 20px;
 }
 #fifthimage{
-    padding-left: 40px; padding-right: 15px; padding-bottom: 30px;
+    padding-left: 40px; padding-right: 25px; padding-bottom: 30px;
     height:70px;
     width:70px;
 }
 #sixth1{
-    position: absolute;top: 1410px; right:515px;
+    position: absolute;top: 1440px; left:60px;
 }
 #sixth2{
     padding-left: 20px;
@@ -169,7 +173,7 @@ label{
 }
 #seventh1{
     background-color:rgb(32, 185, 212); 
-    position:absolute;left:510px;top: 1580px;
+    position:absolute;left:70px;top: 1620px;
     text-align-last: center; padding-right: 30px; 
     padding-top: 10px; padding-bottom: 20px;
     padding-left: 20px; padding-right: 38px;
@@ -182,8 +186,8 @@ label{
     background-color:rgb(240, 77, 104); 
     text-align-last: center;
     position:absolute;
-    left:750px;
-    top: 1580px; 
+    left:310px;
+    top: 1620px; 
     padding-left: 20px;  
     padding-right: 35px; 
     padding-bottom: 45px;
