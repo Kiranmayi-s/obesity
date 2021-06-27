@@ -1,0 +1,195 @@
+body{
+    position: relative;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.heading1{
+    position: absolute;top: 30px;right: 530px;
+    font-weight: bold;
+    font-size: 65px;
+    color: rgb(241, 22, 95);
+}
+.heading2{
+    font-size: 20px; 
+    position: absolute;
+    top: 138px;right: 565px; 
+    font-weight: bolder; 
+    color: white;
+}
+table{
+    border-spacing: 0px;
+}
+.big{
+    font-size: 36px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    padding-left: 10px;
+}
+.color{
+    padding-top: 15px;
+    font-size: 17px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    padding-right: 15px;
+}
+label{
+    font-weight: lighter;
+    font-size: 12px;
+    text-align: center;
+    color: white;
+}
+.back{
+    background-color: rgb(16, 164, 233);
+    text-align: center;
+}
+.orange{
+    background-color: orange;
+    padding-left: 20px;
+    text-align: center;
+}
+.smoking{
+    padding-top: 5px;
+    padding-bottom: 20px;
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-weight: bold;
+    background-color:rgb(235, 83, 109);
+}
+#pic{
+    position:absolute;
+    top: 80px;
+    right: 870px;
+    border-radius: 100%; 
+    border-color: white; 
+    display: inline; 
+    border-style:double; border-width: 8px;
+    height:65px; 
+    width:70px;
+}
+#top1{
+    padding-left: 170px; padding-right: 170px;
+}
+#top2{
+    background-color:rgb(101, 116, 116); padding-bottom: 1870px;
+}
+#first1{
+    background-color:orange; 
+    position:absolute;left:520px;top: 200px;
+    text-align-last: center; padding-right: 130px; 
+    padding-bottom: 20px; padding-left: 20px;
+}
+#firstimage{
+    padding-left:10px; padding-top:10px;
+    height:50px;
+    width:50px;
+}
+#first2{
+    background-color:rgb(52, 175, 212); 
+    position:absolute;right:520px;top: 200px; 
+    text-align-last: center; padding-left: 20px;  
+    padding-right: 25px; padding-bottom: 30px;
+}
+#secondimage{
+    height:30px;
+    width:30px;
+}
+#second1{
+    position:absolute;left:520px;top: 490px; 
+    padding-left: 30px; 
+    padding-bottom: 40px;
+}
+#secondimage1{
+    height:30px;
+    width:30px; 
+    padding-left: 50px;
+    padding-top: 10px;
+}
+#secondimage2{
+    height:30px;
+    width:30px;
+    padding-left: 30px;
+}
+#secondimage3{
+    height:30px;
+    width:30px; 
+    padding-left: 30px; 
+    padding-right: 30px;
+}
+#second2{
+    position: absolute;
+    top:545px;right:540px
+}
+#third1{
+    position: absolute;top: 725px; right:510px;
+}
+#third2{
+    padding-bottom: 10px;
+}
+#fourth1{
+    background-color:rgb(240, 77, 104); 
+    position:absolute;left:520px;top: 990px;text-align-last: center; 
+    padding-right: 30px; 
+    padding-top: 10px; 
+    padding-bottom: 20px; 
+    padding-left: 20px;
+}
+#fourth2{
+    background-color:orange; 
+    text-align-last: center;
+    position:absolute;left:750px;top: 990px; 
+    padding-left: 20px;  
+    padding-right: 25px; 
+    padding-bottom: 35px;
+}
+#fifth1{
+    position: absolute;top: 1240px; right:525px;
+}
+#fifth2{
+    padding-left: 20px;
+}
+#fifthimage{
+    padding-left: 40px; padding-right: 15px; padding-bottom: 30px;
+    height:70px;
+    width:70px;
+}
+#sixth1{
+    position: absolute;top: 1410px; right:515px;
+}
+#sixth2{
+    padding-left: 20px;
+}
+#sixthimage{
+    height:70px;
+    width:70px; 
+    padding-left: 40px; padding-right: 5px; padding-bottom: 30px;
+}
+#seventh1{
+    background-color:rgb(32, 185, 212); 
+    position:absolute;left:510px;top: 1580px;
+    text-align-last: center; padding-right: 30px; 
+    padding-top: 10px; padding-bottom: 20px;
+    padding-left: 20px; padding-right: 38px;
+}
+#seventhimage{
+    height:60px;
+    width:60px; 
+}
+#seventh2{
+    background-color:rgb(240, 77, 104); 
+    text-align-last: center;
+    position:absolute;
+    left:750px;
+    top: 1580px; 
+    padding-left: 20px;  
+    padding-right: 35px; 
+    padding-bottom: 45px;
+}
+.page-wrap {
+    width: 960px;
+    margin: 0 auto;
+    }
